@@ -26,7 +26,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/vidracaria-oliveira.git
+   git clone https://github.com/arthun01/vidracaria-oliveira.git
    cd vidracaria-oliveira
    ```
 
