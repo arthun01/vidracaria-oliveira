@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oliveiravidracaria.com.br/sitemap.xml
