@@ -1,4 +1,6 @@
+# robots.txt para https://oliveiravidracaria.com.br/
 User-agent: *
 Allow: /
 
+# Sitemap oficial
 Sitemap: https://oliveiravidracaria.com.br/sitemap.xml

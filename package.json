@@ -1,6 +1,6 @@
 {
-  "name": "temp-vite-app",
-  "version": "0.0.0",
+  "name": "vidracaria-oliveira",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --dotfiles"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
